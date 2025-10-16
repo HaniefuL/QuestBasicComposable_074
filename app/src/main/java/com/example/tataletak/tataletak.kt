@@ -127,7 +127,6 @@ fun TataletakBoxColumnRow(modifier: Modifier) {
                 Text(text = "Coll_Row2_Komponen2")
                 Text(text = "Coll_Row2_Komponen3")
             }
-
         }
     }
 }
